@@ -4,4 +4,7 @@
 
 ![dsanying's GitHub stats](https://github-readme-stats.vercel.app/api?username=dsanying&count_private=true&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dsanying&layout=compact)
+
 ![Footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=gradient&height=150)
+
